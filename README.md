@@ -31,8 +31,8 @@ Selanjutnya delete pod yang kita miliki <br>
 Dapat dilihat bahwa pod-pod baru sedang dibuat untuk menggatikan pod yang dihapus sebelumnya <br>
 ![image](https://github.com/Abbilville/tutorial-11-adpro/assets/119837732/79951e2a-558b-47cd-b08a-8001c81b3dcc) <br> <br>
 Saat program di-run akan muncul output seperti ini <br>
-![image](https://github.com/Abbilville/tutorial-11-adpro/assets/119837732/04021722-32a3-4c04-b7de-3cdaf9c85c67) <br>
-![image](https://github.com/Abbilville/tutorial-11-adpro/assets/119837732/b45ab6c6-0982-4748-8739-bf3c37150223) <br> <br>
+![image](https://github.com/Abbilville/tutorial-11-adpro/assets/119837732/9952ef67-1d5c-448f-b2b7-995e48151b93) <br>
+![image](https://github.com/Abbilville/tutorial-11-adpro/assets/119837732/a36eab73-3460-458a-ab52-ba5e0ba892b0) <br> <br>
 
 3. **Prepare different manifest files for executing Recreate deployment strategy.**
 Buat sebuah file baru seperti yang dilampirkan di dalam github dengan nama deployment2.yaml. Isi dari file tersebut sama seperti file hasil export pada tutorial bagian sebelumnya tapi ada tambahan yaitu <br>
